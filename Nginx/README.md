@@ -32,7 +32,7 @@ server {
         #access_log  logs/host.access.log  main;
 
         location / {
-            root   /usr/local/html;#资源的根目录
+            root   html;#资源的根目录
             index  index.html index.htm;#默认主页
         }
 
