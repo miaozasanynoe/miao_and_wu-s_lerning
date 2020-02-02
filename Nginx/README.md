@@ -84,4 +84,4 @@ back{
     }
 }
 ```
-![image](http://img4.imgtn.bdimg.com/it/u=2503911009,288538861&fm=26&gp=0.jpg)
+![image](https://github.com/miaozasanynoe/miao_and_wu-s_lerning/blob/master/Nginx/public/image/bubble.jpg)
